@@ -17,7 +17,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\angularapp1.client\angularapp1.client.esproj">
+    <ProjectReference Include="..\angularapp1.client\DSVisualizer.Client.esproj">
       <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
     </ProjectReference>
   </ItemGroup>
