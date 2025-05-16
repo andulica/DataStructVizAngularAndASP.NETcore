@@ -5,7 +5,7 @@ const routes: Routes = [
   {
     path: 'graph',
     loadComponent: () =>
-      import('../Node/graph.component').then(m => m.GraphComponent)
+      import('./componenets/Node/graph.component').then(m => m.GraphComponent)
   }
 ];
 
